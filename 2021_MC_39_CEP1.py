@@ -1,3 +1,9 @@
+'''
+This program is written by Muhammad Rafay (2021-MC-39) as a mid-term project of CP-II.
+This program solves the Maze in accordance to Genetic Algorithm.
+Submitted to: Dr Muhammad Ahsan Naeem 
+Date: 03 April,2023.
+'''
 # Importing the Libraries
 from pyamaze import maze, agent
 from random import *
